@@ -1,34 +1,20 @@
-# Análisis de Marketing Bancario
+# Bank Marketing Campaign Analysis
 
-EDA project with professional statistical analysis and comprehensive reporting.
+Predictive modeling and exploratory analysis for a bank's direct marketing campaigns.
 
-## 📊 Description
+## What this project covers
 
-End-to-end data analysis pipeline: raw data → exploratory analysis → statistical testing → executive report.
+- Dataset cleaning and feature engineering
+- Distribution analysis and key driver identification
+- Statistical testing (Chi-square, ANOVA) to validate hypotheses about campaign effectiveness
+- Cross-analysis of customer segments vs. subscription outcomes
+- Actionable insights for improving future campaigns
 
-## 🛠️ Stack
+## 🛠️ Built with
+Python 3, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy, Openpyxl.
 
-- **Python 3** + Jupyter Notebook
-- **Pandas / NumPy** — data manipulation
-- **Matplotlib / Seaborn** — professional visualizations
-- **SciPy** — statistical tests (chi-square, ANOVA, correlation)
-- **Openpyxl** — Excel file processing
-
-## 📋 Analysis Content
-
-1. **Dictionary** — Variable descriptions and mappings
-2. **Descriptive statistics** — Mean, median, std dev, percentiles
-3. **Full EDA** — Distribution, correlation and trend visualizations
-4. **Statistical tests** — Chi-square (independence), ANOVA (group differences)
-5. **Cross-analysis** — Categorical vs numerical variable intersections
-6. **Conclusions & recommendations**
-
-## 🎯 Learning Objectives
-
-- Professional EDA workflows
-- Advanced visualization with Matplotlib/Seaborn
-- Hypothesis testing for data validation
-- Executive report generation in PDF
+## 📊 Output
+The analysis generates a professional PDF report with visualizations, statistical test results, and conclusions to guide campaign strategy.
 
 ---
 
