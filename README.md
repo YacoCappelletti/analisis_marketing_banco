@@ -1,35 +1,35 @@
 # Análisis de Marketing Bancario
 
-Proyecto analítico de Data Science con análisis exploratorio completo (EDA) y reportes profesionales.
+EDA project with professional statistical analysis and comprehensive reporting.
 
-## 📊 Descripción
+## 📊 Description
 
-Proyecto analítico sobre una campaña de marketing de un banco de Portugal.
+End-to-end data analysis pipeline: raw data → exploratory analysis → statistical testing → executive report.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack
 
 - **Python 3** + Jupyter Notebook
-- **Pandas** / **NumPy** — manipulación y análisis de datos
-- **Matplotlib** / **Seaborn** — visualizaciones profesionales
-- **SciPy** — pruebas estadísticas (chi-cuadrado, ANOVA, correlación)
-- **Openpyxl** — procesamiento de archivos Excel
+- **Pandas / NumPy** — data manipulation
+- **Matplotlib / Seaborn** — professional visualizations
+- **SciPy** — statistical tests (chi-square, ANOVA, correlation)
+- **Openpyxl** — Excel file processing
 
-## 📋 Contenido del Análisis
+## 📋 Analysis Content
 
-1. **📖 Dictionary** — Descripción detallada de cada variable del dataset
-2. **📊 Estadísticas descriptivas** — Media, mediana, desvío estándar, percentiles
-3. **🔍 EDA completo** — Visualizaciones de distribución, correlación y tendencias
-4. **🧪 Pruebas estadísticas** — Chi-cuadrado (independencia), ANOVA (diferencias entre grupos)
-5. **📐 Análisis cruzado** — Intersección entre variables categóricas y numéricas
-6. **💡 Conclusiones** — Hallazgos principales con recomendaciones accionables
+1. **Dictionary** — Variable descriptions and mappings
+2. **Descriptive statistics** — Mean, median, std dev, percentiles
+3. **Full EDA** — Distribution, correlation and trend visualizations
+4. **Statistical tests** — Chi-square (independence), ANOVA (group differences)
+5. **Cross-analysis** — Categorical vs numerical variable intersections
+6. **Conclusions & recommendations**
 
-## 🎯 Objetivos de Aprendizaje
+## 🎯 Learning Objectives
 
-- Análisis exploratorio de datos (EDA) profesional
-- Visualización avanzada con Matplotlib/Seaborn
-- Pruebas estadísticas para validación de hipótesis
-- Generación de reportes ejecutivos en PDF
+- Professional EDA workflows
+- Advanced visualization with Matplotlib/Seaborn
+- Hypothesis testing for data validation
+- Executive report generation in PDF
 
 ---
 
-> Desarrollado por **Yaco Cappelletti** | Blanes, España 🇦🇷→🇪🇸
+> Project by Yaco Cappelletti
